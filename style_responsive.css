@@ -1,0 +1,9 @@
+/* ↔️ max-width + ↕️ max-height ================================================ */
+
+@media only screen and (max-height: 600px) {
+  body {
+    background-color: #00ff00;
+  }
+  
+}
+

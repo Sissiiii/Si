@@ -1,0 +1,22 @@
+/* ↔️ max-width + ↕️ max-height ================================================ */
+
+@media only screen and (max-height: 600px) {
+  body {
+    background-color: #00ff00;
+  }
+
+  #mainText1 {
+    top: 100px;
+    rotate: 20deg;
+    font-size: 100px;
+	  font-variation-settings: "opsz" 8, "wght" 100, "GRAD" -200, "wdth" 151, "slnt" -10, "XOPQ" 96, "YOPQ" 79, "XTRA" 468, "YTUC" 712, "YTLC" 514, "YTAS" 750, "YTDE" -203, "YTFI" 738;
+  }
+  
+  #mainText2 {
+    left: 50px;
+    font-size: 150px;
+	  font-variation-settings: "opsz" 144, "wght" 596.3291, "GRAD" -200, "wdth" 25, "slnt" 0, "XOPQ" 96, "YOPQ" 79, "XTRA" 468, "YTUC" 712, "YTLC" 514, "YTAS" 750, "YTDE" -203, "YTFI" 738;
+  }
+  
+}
+
